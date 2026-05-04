@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MOD-Camp-Day-Booking-System-Final
 =======
 # MOD Camp Booking System
@@ -61,4 +60,4 @@ JWT_SECRET=modcampsecret
 - Staff login
 - Staff dashboard to confirm, update, or cancel bookings
 - Aisha test data included
->>>>>>> 9622fb1 (Final MOD-Camp-Booking-System)
+ (Final MOD-Camp-Booking-System)

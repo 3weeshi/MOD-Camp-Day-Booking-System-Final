@@ -1,0 +1,1 @@
+{"name":"mod-camp-booking-system-backend","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.js","dev":"nodemon server.js"},"dependencies":{"bcrypt":"^6.0.0","cors":"latest","dotenv":"latest","express":"latest","jsonwebtoken":"^9.0.3","mongoose":"^9.6.1","nodemon":"latest"}}
